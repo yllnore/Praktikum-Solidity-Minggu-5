@@ -8,4 +8,4 @@
 3. Pengujian *error handling* custom error `UnauthorizedAccess` saat fungsi dipanggil oleh selain pemilik karya.
 
 ## Bukti Pengujian Error Handling (Remix IDE):
-![Pengujian Error Handling](NAMA_FILE_GAMBAR_KAMU.png)
+![Pengujian Error Handling](Screenshot 2026-09-23 104637.png)
